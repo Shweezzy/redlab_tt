@@ -1,0 +1,34 @@
+@font-face {
+  font-family: TTTravels;
+  font-style: normal;
+  font-weight: 300;
+  src: url("/public/fonts/TTTravels-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: TTTravels;
+  font-style: normal;
+  font-weight: 400;
+  src: url("/public/fonts/TTTravels-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: TTTravels;
+  font-style: normal;
+  font-weight: 500;
+  src: url("/public/fonts/TTTravels-Medium.ttf") format("woff2");
+}
+
+@font-face {
+  font-family: TTTravels;
+  font-style: normal;
+  font-weight: 600;
+  src: url("/public/fonts/TTTravels-DemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: TTTravels;
+  font-style: normal;
+  font-weight: 700;
+  src: url("/public/fonts/TTTravels-Bold.ttf") format("truetype");
+}
